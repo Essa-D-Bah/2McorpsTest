@@ -1,0 +1,40 @@
+.input{
+    padding: 1em;
+    border: solid 1px black;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.inputCont{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+}
+
+.searchBtn{
+    padding: 1em;
+    background: white;
+    border: solid 1px black;
+    margin-left: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.selectCont{
+    display: flex;
+    flex-direction: column;
+}
+.select{
+    padding: .5em;
+    width: 200px;
+}
+
+.searchInner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchCon{
+    margin-top: 2em;
+}

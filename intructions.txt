@@ -1,0 +1,2 @@
+After running minimize the browser after loading the package am using for slideshow is buggy
+Search is by common name might want to read the api documentation to see the common names
